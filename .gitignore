@@ -53,3 +53,6 @@ __pycache__/
 # IDE / Tooling
 .cursor/
 .taskmaster/
+
+# Library specific
+/catboost_info/
