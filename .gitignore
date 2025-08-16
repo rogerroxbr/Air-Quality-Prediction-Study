@@ -5,6 +5,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 dev-debug.log
+package-lock.json
+package.json
 
 # Dependency directories
 node_modules/
@@ -32,13 +34,13 @@ __pycache__/
 .venv/
 
 # Generated data files
-/AirQualityUCI_cleaned.csv
-/PRSA_cleaned.csv
-/PRSA_consolidated.csv
-/train.csv
-/test.csv
+AirQualityUCI_cleaned.csv
+PRSA_cleaned.csv
+PRSA_consolidated.csv
+train.csv
+test.csv
 *.pkl
-/all_model_results.pkl
+all_model_results.pkl
 
 # Generated plots
 /eda_plots/
